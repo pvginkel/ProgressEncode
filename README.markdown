@@ -1,6 +1,6 @@
 # ProgressEncode
 
-LGPL License.
+The code in this repository is in the public domain. See [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](http://creativecommons.org/publicdomain/zero/1.0/) for more information.
 
 ## Introduction
 

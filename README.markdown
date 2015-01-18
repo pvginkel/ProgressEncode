@@ -25,7 +25,3 @@ list of encoded strings in the unit tests all pass.
 
 Bugs should be reported through github at
 [http://github.com/pvginkel/ProgressEncode/issues](http://github.com/pvginkel/ProgressEncode/issues).
-
-## License
-
-ProgressEncode is licensed under the LGPL 3.

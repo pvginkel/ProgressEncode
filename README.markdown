@@ -11,8 +11,15 @@ e.g. hash passwords.
 Progress has stated ([http://knowledgebase.progress.com/articles/Article/P111508](http://knowledgebase.progress.com/articles/Article/P111508))
 that they are not willing to make the algorithm behind the `ENCODE` function
 public. This can cause problems when you need to interoperate with legacy applications.
-This project contains a C# implementation of the algorithm behind the Progress `ENCODE`
+This project contains implementations of the algorithm behind the Progress `ENCODE`
 function specifically to allow this kind of operability.
+
+## New languages
+
+If you have a version of this algorithm in a different language, feel free
+to create a pull request to have it added to this repository. Note however
+that addition of your code to this repository requires it to conform to
+the CC0 license.
 
 ## Issues
 

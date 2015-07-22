@@ -1,0 +1,4 @@
+[submodule "CommonLisp"]
+	path = CommonLisp
+	url = https://github.com/mtstickney/oe-encode.git
+	branch = master
